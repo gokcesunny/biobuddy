@@ -1,0 +1,5 @@
+{
+  "name": "BioBuddy - Your Personal Biology Tutor",
+  "description": "An interactive biology tutor powered by Gemini. Features Q&A chat, diagram generation, and custom quizzes.",
+  "requestFramePermissions": []
+}
